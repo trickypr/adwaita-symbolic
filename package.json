@@ -1,16 +1,15 @@
 {
   "name": "adwaita-symbolic",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Symbolic portion of Gnome's adwaita icon theme",
   "type": "module",
   "files": [
     "./symbolic",
     "./gecko"
   ],
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "trickypr",
+  "license": "LGPL-2.1-or-later",
   "devDependencies": {
     "prettier": "^3.3.2",
     "typescript": "^5.4.5"
