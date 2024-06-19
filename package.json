@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Symbolic portion of Gnome's adwaita icon theme",
   "type": "module",
+  "scripts": {},
   "files": [
     "./symbolic",
     "./gecko"
