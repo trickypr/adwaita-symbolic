@@ -11,6 +11,7 @@
   "keywords": [],
   "author": "trickypr",
   "license": "LGPL-2.1-or-later",
+  "repository": "https://github.com/trickypr/adwaita-symbolic",
   "devDependencies": {
     "prettier": "^3.3.2",
     "typescript": "^5.4.5"
